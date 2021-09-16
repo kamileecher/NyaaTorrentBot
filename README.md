@@ -43,7 +43,7 @@ To run this project, you will need to add the following environment variables to
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Achu2234/NyaaTorrentBot)
 
 
-
+[![Deploy+on+Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/Achu2234/YuiVidioPlayer&envs=API_ID,API_HASH,BOT_TOKEN)
 
 ## Creator
 
